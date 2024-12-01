@@ -1,0 +1,6 @@
+Complexidade Ciclomática
+
+- Fórmula: M = E - N + 2P
+- E = 10 (arestas)
+- N = 10 (nós)
+- P = 1 (componentes conectados)
